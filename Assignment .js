@@ -1,0 +1,206 @@
+// Basic Calculator 
+
+// let num1 = 6;
+// let num2 = 4;
+// console.log(num1 + num2);
+// console.log(num1 - num2);
+// console.log(num1 / num2);
+// console.log(num1 * num2);
+// console.log(num1 ** num2);
+// console.log(num1 % num2);
+
+//. Swap Two Numbers 
+
+// let a = 10;
+// let b = 20;
+
+// [a , b] = [b , a]
+// console.log(a);
+// console.log(b);
+
+// let c = 15;
+// let d = 17;
+// [c , d] = [d ,c]
+// console.log(d,c);
+// console.log(d);
+
+// Student Marks 
+
+// let sub1 = 60;
+// let sub2 = 80;
+// let sub3 = 50;
+
+// let total = sub1 + sub2 + sub3;
+// let average = total / 3
+// let persentage = total / 5 * 100;
+
+// console.log("total marks", total);
+// console.log("average marks", average);
+// console.log("persentage marks", persentage);
+
+// Shopping Bill 
+
+// let productPrice = 800;
+// let quantity  = 4;
+
+// let originalBill = productPrice * quantity;
+// let discountAmount = originalBill * 10 / 100;
+// let finalBill  = originalBill - discountAmount;
+
+// console.log(" Original bill ", originalBill);
+// console.log(" Discount amount  ", discountAmount);
+// console.log(" Final bill  ", finalBill);
+
+//Area Calculator 
+
+// let lenght = 8;
+// let width = 15;
+
+// let area = lenght * width;
+// let perimeter = 2 * (lenght + width);
+
+// console.log("Area of rectangle ", area);
+// console.log("Perimeter  of rectangle ", perimeter);
+
+
+// Even or Odd 
+
+// let num = 9;
+
+// if (num % 2 === 0) {
+//     console.log("Even");
+// } else {
+//     console.log("odd");
+// }
+// let n = 8;
+
+// if (n % 2 === 0) {
+//     console.log("Even");
+// } else {
+//     console.log("odd");
+// }
+
+//Positive, Negative or Zero 
+
+// let num = 4;
+
+// if (num > 2) {
+//     console.log("POsitive");
+// } else if (num < 2) {
+//     console.log("Negative");
+// } else {
+//     console.log("zero");
+// }
+
+
+// let a = 5;
+
+// if (a > 6) {
+//     console.log("Positive");
+// } else if (a < 6) {
+// console.log("Negative");
+// } else {
+//     console.log("zero");
+// }
+// let b = 5;
+
+// if (b > 6) {
+//     console.log("Positive");
+// } else if (b < 4) {
+// console.log("Negative");
+// } else {
+//     console.log("zero");
+// }
+
+
+// Greater Number 
+
+
+
+// let num1 = 15;
+// let num2 = 12;
+
+// if (num1 > num2) {
+//     console.log("First number is greater ");
+// } else if (num2 > num1) {
+// console.log("Second number is greater ");
+
+// }else {
+//     console.log("Both numbers are equal ");
+// }
+
+
+// let num1 = 12;
+// let num2 = 15;
+
+// if (num1 > num2) {
+//     console.log("First number is greater ");
+// } else if (num2 > num1) {
+// console.log("Second number is greater ");
+
+// }else {
+//     console.log("Both numbers are equal ");
+// }
+
+
+// let num1 = 15;
+// let num2 = 15;
+
+// if (num1 > num2) {
+//     console.log("First number is greater ");
+// } else if (num2 > num1) {
+// console.log("Second number is greater ");
+
+// }else {
+//     console.log("Both numbers are equal ");
+// }
+
+//Largest of Three Numbers 
+
+// let num1 = 15;
+// let num2 = 25;
+// let num3 = 20;
+
+// if (num1 >= num2 && num1 >= num3) {
+//     console.log("largest number ",num1);
+// } else if (num2 >= num1 && num2 >= num3)  {
+//     console.log("largest number ",num2);
+    
+// }else {
+//     console.log("largest number ",num3);
+   
+// }
+
+
+//Voting Eligibility 
+
+// let age = 18;
+
+// if (age >= 18) {
+//     console.log("Eligible to vote ");
+    
+// }else {
+//     console.log("Not eligible to vote ");
+// }
+
+
+// let age = 18;
+
+// if (age < 18) {
+//     console.log("Eligible to vote ");
+    
+// }else {
+//     console.log("Not eligible to vote ");
+// }
+
+// Driving Eligibility 
+
+// let age = 18;
+
+// if (age >= 18) {
+//     console.log("can drive");
+// } else if (age > 18) {
+//     console.log(" They have a valid license ");
+// } else {
+//     console.log(nathing);
+// }
