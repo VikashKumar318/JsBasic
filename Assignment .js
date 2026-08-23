@@ -204,3 +204,170 @@
 // } else {
 //     console.log(nathing);
 // }
+
+
+
+//Basic Calculator 
+
+// let a = 10;
+// let b = 20;
+// console.log(a + b, a-b, a / b, a * b, a ** b, a % b);
+// console.log(a + b);
+// console.log(a / b);
+// console.log(a - b);
+// console.log(a * b);
+// console.log(a % b);
+// console.log(a ** b);
+
+// [a , b] = [b , a];
+// console.log(a , b);
+// console.log(a);
+// console.log(b);
+
+// let sub1 = 30;
+// let sub2 = 50;
+// let sub3 = 40;
+
+// let total = sub1 + sub2 + sub3;
+// let average = total / 3;
+// let persentage = total / 5;
+// console.log(total, average, persentage);
+// console.log(total);
+// console.log(average);
+// console.log(persentage);
+
+// let productPrice = 500;
+// let quantity = 3;
+
+// let originalBill = productPrice * quantity;
+// let discountAmount = originalBill * 10 /100;
+// let finalBill = originalBill - discountAmount;
+// console.log(originalBill);
+// console.log(discountAmount);
+// console.log(finalBill);
+
+
+// let lenght = 15;
+// let width = 10;
+// let area = lenght + width;
+// let perimiter = 2 *(lenght + width);
+// console.log("Area",area , "Perimmiter", perimiter);
+// console.log("Area", area);
+// console.log("Perimmiter", perimiter);
+
+
+// let num = 4;
+
+// if (num % 2 == 0) {
+//     console.log("Even");
+// }else {
+//     console.log("Odd");
+// }
+
+
+// let num = 3;
+
+// if (num % 2 == 0) {
+//     console.log("Even");
+// }else {
+//     console.log("Odd");
+// }
+
+// let num = 5;
+
+// if (num > 0) {
+//     console.log("Number is Positive");
+// }else if (num < 0) {
+//     console.log("Number is Negative");
+    
+// }else {
+//     console.log("Number is Zero");
+
+// }
+
+
+// let num = -5;
+
+// if (num > 0) {
+//     console.log("Number is Positive");
+// }else if (num < 0) {
+//     console.log("Number is Negative");
+    
+// }else {
+//     console.log("Number is Zero");
+
+// }
+
+
+// let num = 0;
+
+// if (num > 0) {
+//     console.log("Number is Positive");
+// }else if (num < 0) {
+//     console.log("Number is Negative");
+    
+// }else {
+//     console.log("Number is Zero");
+
+// }
+
+// let num1 
+
+
+// let num1 = 15;
+// let num2 = 15;
+
+// if (num1 > num2) {
+//     console.log("First number is greater ");
+// }else if (num1 < num2) {
+//     console.log("Second number is greater ");
+    
+// }else {
+//     console.log("Both numbers are equal  ");
+
+// }
+// let num1 = 15;
+// let num2 = 25;
+
+// if (num1 > num2) {
+//     console.log("First number is greater ");
+// }else if (num1 < num2) {
+//     console.log("Second number is greater ");
+    
+// }else {
+//     console.log("Both numbers are equal  ");
+
+// }
+
+// let num1 = 10;
+// let num2 = 20;
+// let num3 = 30;
+
+// if (num1 > num2) {
+//     console.log("largest number", num1);
+// }else if (num2 > num3) {
+//     console.log("largest number", num2);
+    
+// }else {
+//     console.log("largest number", num3);
+
+// }
+
+// let age = 18;
+
+// if (age >= 18) {
+//     console.log("Eligible to vote ");
+// }else {
+//     console.log("Not Eligible to vote ");
+
+// }
+
+
+let age = 17;
+
+if (age >= 18) {
+    console.log("You can Drive ");
+}else {
+    console.log("Not You can Drive ");
+
+}

@@ -1,8 +1,11 @@
- 6;
-// let num2 = 4;
-// console.log(num1 + num2);
-// console.log(num1 - num2);
-// console.log(num1 / num2);
-// console.log(num1 * num2);
-// console.log(num1 ** num2);
-// console.log(nu
+ = 0;
+
+if (num > 0) {
+    console.log("Number is Positive");
+}else if (num < 0) {
+    console.log("Number is Negative");
+    
+}else {
+    console.log("Number is Zero");
+
+}
