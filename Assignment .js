@@ -363,11 +363,122 @@
 // }
 
 
-let age = 17;
+// let age = 17;
 
-if (age >= 18) {
-    console.log("You can Drive ");
-}else {
-    console.log("Not You can Drive ");
+// if (age >= 18) {
+//     console.log("You can Drive ");
+// }else {
+//     console.log("Not You can Drive ");
 
-}
+// }
+
+
+// Number Range 
+
+// let num = 20;
+
+// if (num >= 10 && num <= 100) {
+//     console.log("Number is between 10 and 100 ");
+// }else {
+//     console.log("Not Number is between 10 and 100 ");
+
+// }
+
+
+// let num = 9;
+
+// if (num >= 10 && num <= 100) {
+//     console.log("Number is between 10 and 100 ");
+// }else {
+//     console.log("Not Number is between 10 and 100 ");
+
+// }
+
+// Student Grade 
+
+
+// let marks = 90;
+
+// if (marks >= 90) {
+//     console.log("Grade-A");
+// }else if (marks >= 80) {
+//     console.log("Grade-B");
+    
+// }else if (marks >= 70) {
+//     console.log("Grade-C");
+// }else if (marks >= 60) {
+//     console.log("Grade-D");
+// }else {
+//     console.log("Fail");
+// }
+
+// let marks = 80;
+
+// if (marks >= 90) {
+//     console.log("Grade-A");
+// }else if (marks >= 80) {
+//     console.log("Grade-B");
+    
+// }else if (marks >= 70) {
+//     console.log("Grade-C");
+// }else if (marks >= 60) {
+//     console.log("Grade-D");
+// }else {
+//     console.log("Fail");
+// }
+
+// let marks = 70;
+
+// if (marks >= 90) {
+//     console.log("Grade-A");
+// }else if (marks >= 80) {
+//     console.log("Grade-B");
+    
+// }else if (marks >= 70) {
+//     console.log("Grade-C");
+// }else if (marks >= 60) {
+//     console.log("Grade-D");
+// }else {
+//     console.log("Fail");
+// }
+
+// let marks = 60;
+
+// if (marks >= 90) {
+//     console.log("Grade-A");
+// }else if (marks >= 80) {
+//     console.log("Grade-B");
+    
+// }else if (marks >= 70) {
+//     console.log("Grade-C");
+// }else if (marks >= 60) {
+//     console.log("Grade-D");
+// }else {
+//     console.log("Fail");
+// }
+
+// let marks = 50;
+
+// if (marks >= 90) {
+//     console.log("Grade-A");
+// }else if (marks >= 80) {
+//     console.log("Grade-B");
+    
+// }else if (marks >= 70) {
+//     console.log("Grade-C");
+// }else if (marks >= 60) {
+//     console.log("Grade-D");
+// }else {
+//     console.log("Fail");
+// }
+
+// Student Result 
+
+//Simple Login
+
+// let userName = "admin"
+// let password = "12346"
+
+// if () {
+    
+// }
