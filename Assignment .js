@@ -482,3 +482,266 @@
 // if () {
     
 // }
+
+
+//Object in js
+
+
+// product = {
+//     price : 500,
+//     discount : 20,
+//     totalPrice : 480
+// }
+
+// console.log(product);
+
+
+// const person = {
+//     name : "vikash",
+//     age : 20,
+//     student : true,
+// };
+
+// console.log(person);
+// console.log(person.name);
+// console.log(person.age);
+// console.log(person.student);
+// console.log(person["name"]);
+// console.log(person['age']);
+// console.log(person[`student`]);
+// person.city = 'Patna'
+
+
+// person.name = "Kajal"
+// person.age = 22;
+
+// delete person.student;
+// console.log(person);
+
+
+// const fruits = {
+//     name : "Apple",
+//     price : 200,
+//     discount : 20,
+//     total : 180
+// };
+
+
+
+// fruits.f = "Mango"
+// fruits.name = "Mango"
+// delete fruits.f;
+// delete fruits.name
+// console.log(fruits);
+// console.log(fruits.name);
+// console.log(fruits.price);
+// console.log(fruits.total);
+// console.log(fruits["name"]);
+// console.log(fruits["price"]);
+
+
+// let person = {
+//     name : "Vikash",
+
+//     greet() {
+// //   console.log("Hii," + this.name);
+//     }
+// };
+// console.log(person);
+// person.greet();
+
+// const human = {
+//     name : "Kajal",
+
+//     n() {
+//         console.log("Hii Kajal I am vikash How are you," + this.name);
+//     }
+// };
+
+// human.n();
+
+
+// let arr = ["Vikash", "Alok", 12, 15, 48];
+
+
+
+// for (a of arr) {
+//     console.log(a);
+// }
+
+// for (a in arr) {
+    
+    
+//     a = [arr];
+//     console.log(arr);
+    
+// }
+
+// console.log(arr);
+
+
+
+// Loops and Functions in JavaScript 
+// Assignment 
+
+// let i = 0;
+// for (let i = 1; i <= 10; i++) {
+  
+//     console.log("even");
+// }
+
+
+// for (let i = 0; i <= 20; i++) {
+//     if (i % 2 === 0) {
+        
+//         console.log(i);
+//     }
+// }
+
+// for (let i = 0; i <= 20; i++) {
+    
+//     if (i % 2 === 1) {
+//         console.log(i);
+//     }
+    
+// }
+
+// for (let i = 0; i <= 20; i++) {
+    
+//     if (i % 3 === 0) {
+//         console.log(i);
+//     }
+    
+// }
+
+// for (let i = 10; i >= 1 ; i--) {
+    
+//     console.log(i);
+// }
+
+
+// let sum = 0
+// for (let i = 1; i <= 10; i++) {
+//     sum += i;
+//     // sum = sum + i;
+    
+// }
+// console.log(sum);
+
+// let num = 4;
+
+// for (let i = 1; i <= 10; i++) {
+//    console.log(num * i);
+
+// }
+
+// let num = 1;
+
+// let num = 1;
+// let sum = 0;
+
+// while (num <= 20) {
+
+//     if (num % 2 === 0) {
+//         // sum += num;
+//         sum = sum + num;
+//     }
+//     num++;
+// }
+// console.log(num);
+
+//  let i = 0 
+
+// while (i <= 20) {
+//     console.log(i);
+//     i++
+// }
+
+
+
+// for (let i = 1; i <= 10; i++) {
+  
+//     console.log(i);
+// }
+
+
+// for (let i = 1; i < 10; i++) {
+  
+//     console.log(i+1);
+// }
+
+// for (let i = 1; i <= 20; i++) {
+//    if (i % 2 === 0) {
+//     console.log("Even", i);
+//    }else {
+//     console.log("Odd", i);
+// }
+    
+// };
+
+// for (let i = 1; i <= 20; i++) {
+//    if (i % 2 === 1) {
+//     console.log(i);
+//    }
+    
+// }
+
+
+
+// for (let i = 10; i >= 1; i--) {
+
+
+//     console.log(i);
+    
+// }
+
+
+// for (let i = 20; i >= 1; i--) {
+//     console.log(i);
+    
+// }
+
+// let sum = 0;
+
+
+// for (let i = 1; i <= 10; i++) {
+// //    sum += i;
+//    sum = sum + i;
+    
+// };
+// console.log("Sum", sum);
+
+// let num = 17;
+
+// for (let i = 1; i <= 10; i++) {
+//    console.log(i * num);
+    
+// }
+
+// let num = 1;
+
+// while (num <= 10) {
+//     console.log(num);
+//     num++;
+// }
+
+// let i = 1;
+
+// while (i <= 20) {
+//     console.log(i);
+//     i++;
+// }
+
+// let i = 1;
+// let sum = 0;
+
+// while (i <= 20) {
+//     sum += i
+//     i = i + 0;
+// };
+// console.log("Sum", sum);
+
+
+// console.log("Vikash");
+
+// console.log("a");
