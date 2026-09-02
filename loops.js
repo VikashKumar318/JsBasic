@@ -310,14 +310,14 @@
 //  console.log(boyName.length);
 
 
-let arr = ["10", "20", "Vikash", "50", "Apple"];
+// let arr = ["10", "20", "Vikash", "50", "Apple"];
 
 // arr[2] = "Kajal"//Change value
 // arr.push("Hello", "Vikash");
 // arr.pop();
 // arr.unshift("hello");
-arr.shift();
-console.log(arr);
+// arr.shift();
+// console.log(arr);
 // console.log(arr.length);
 // console.log(arr[0]);
 // console.log(arr[1]);
